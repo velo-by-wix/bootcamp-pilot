@@ -5,7 +5,7 @@ Welcome to our Corvid for Bootcamp Grads Pilot Program! We're excited to help yo
 
 ## Schedule
 
-**Week 1**: 
+**[Week 1](week1.md)**: 
 
 Deep Dive on Wix Data, Nov 2 @ 8pm ET/5pm PT
 
