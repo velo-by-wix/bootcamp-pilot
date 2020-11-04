@@ -2,6 +2,8 @@
 
 Welcome to our Corvid for Bootcamp Grads Pilot Program! We're excited to help you grow in your freelance journey. The goal of this program is to advance your knowledge of Corvid and connect you with existing Corvid freelancers and agencies. 
 
+## Template
+[Link to template](https://editor.wix.com/html/editor/web/renderer/new?siteId=65eaeff2-f3f2-42fd-a509-16bde9ad2855&metaSiteId=b88855de-6293-4e99-9099-5f1a3aa2d6ff)
 
 ## Schedule
 
