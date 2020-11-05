@@ -4,13 +4,13 @@ These weeks labs focus on working with the [Wix Data API](https://www.wix.com/co
 
 ## Challenge 1
 
-On a page with a Repeater, create a custom search experience that enables a user to enter a term and filter down the list of items in the Repeater to search on the users entry. On Key Press or On Click for Search is OK.
+On a page with a Repeater, create a custom search experience that enables a user to enter a term and filter down the list of items in a Repeater for the **Plants Collection** to search on the users entry. On Key Press or On Click for Search is OK.
 
 ## Challenge 1 BONUS
 
-Add a Reference Field to your Database Collection you used in Challenge 1. Add in a Dropdown field to enable filtering on the reference field you added. 
+Add a Reference Field to the **Family Collection** to your **Plants** Database Collection you used in Challenge 1. Add in a Dropdown field to enable filtering on the Family reference field. 
 
 ## Challenge 2
 
-Create a user experience where users can filter a list of Database Collection using the Selection Tags UI element. As users select or unselect tags, the list should reflect only items that match the selected tags.
+Create a user experience where users can filter a list of **Plants** Database Collection using the Selection Tags UI element. As users select or unselect tags, the list should reflect only items that match the selected tags. There is a tag field you can use in the Plant Collection.
 
