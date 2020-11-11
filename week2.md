@@ -4,7 +4,7 @@ These weeks labs focus on working with the [Wix Window API](https://www.wix.com/
 
 ## Challenge 1
 
-On the Demo page, open a lightbox that is able to show the name of the plant that was clicked. You will need to pass context from the page to the lightbox using Wix Window.  
+On the Challenge #1 page that you worked on last week, open a lightbox that is able to show the name of the plant that was clicked. You will need to pass context from the page to the lightbox using Wix Window.  
 
 
 ## Challenge 2
