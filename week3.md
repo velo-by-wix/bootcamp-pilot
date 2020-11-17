@@ -11,10 +11,16 @@ Make a GET request to display ONE random dog from the API. You can use npm modul
 
 
 ## Challenge 2
-
+Expose your site as an API
 
 
 
 ### HINT
 Use the API reference! 
+
+	
+* [Repeater](https://www.wix.com/corvid/reference/$w/repeater)
+* [Image](https://www.wix.com/corvid/reference/$w/image)
+* [Text](https://www.wix.com/corvid/reference/$w/text/text)
+
 ## Q&A SESSION THURSDAY NOVEMBER 19th 5pm PT
