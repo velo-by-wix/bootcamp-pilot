@@ -17,4 +17,4 @@ Make a GET request to display ONE random dog from the API. You can use npm modul
 
 ### HINT
 Use the API reference! 
-## Q&A SESSION THURSDAY NOVEMBER 19th**
+## Q&A SESSION THURSDAY NOVEMBER 19th 5pm PT
