@@ -15,7 +15,7 @@ Deep Dive on Wix Data, Nov 2 @ 8pm ET/5pm PT
 
 Exploring Wix Verticals, Nov 10 @ 5pm ET/2pm PT
 
-*[Week 3](week3.md)**: 
+**[Week 3](week3.md)**:
 
 Integrations with Corvid, Nov 17 @ 8pm ET/5pm PT
 
