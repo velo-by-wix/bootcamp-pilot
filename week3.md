@@ -11,7 +11,8 @@ Make a GET request to display ONE random dog from the API. You can use npm modul
 
 
 ## Challenge 2
-Expose your site as an API
+
+Integrate your web app with [Twilio](https://www.twilio.com/docs/voice/client/javascript/quickstart)! Install the [npm module](https://www.npmjs.com/package/twilio) from the backend tab. Use text input UI elements for the recipient’s phone number and the message text.
 
 
 
