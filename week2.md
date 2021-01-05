@@ -1,6 +1,6 @@
 # Week 2 - Verticals and Wix APIs
 
-These weeks labs focus on working with the [Wix Window API](https://www.wix.com/corvid/reference/wix-window) and [Wix Stores](https://www.wix.com/corvid/reference/wix-stores-backend). Wix Window enables you to dynamically open and close pages in your site. Wix Stores and other verticals APIs enable you to customize the out-of-the-box features.
+These weeks labs focus on working with the [Wix Window API](https://www.wix.com/velo/reference/wix-window) and [Wix Stores](https://www.wix.com/velo/reference/wix-stores-backend). Wix Window enables you to dynamically open and close pages in your site. Wix Stores and other verticals APIs enable you to customize the out-of-the-box features.
 
 ## Challenge 1
 
