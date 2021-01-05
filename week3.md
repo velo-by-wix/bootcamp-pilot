@@ -1,5 +1,5 @@
 # Week 3 - Integrations
-This week's lab focuses on working with the [Wix Fetch API](https://www.wix.com/corvid/reference/wix-fetch/fetch) / [npm](https://www.wix.com/corvid/feature/npm-packages). Wix Fetch and npm allows developers to use external webservices. Wix Fetch works just like Javascript's fetch API.
+This week's lab focuses on working with the [Wix Fetch API](https://www.wix.com/velo/reference/wix-fetch/fetch) / [npm](https://www.wix.com/velo/feature/npm-packages). Wix Fetch and npm allows developers to use external webservices. Wix Fetch works just like Javascript's fetch API.
 
 ## Challenge 1
 
@@ -20,8 +20,8 @@ Integrate your web app with [Twilio](https://www.twilio.com/docs/voice/client/ja
 Use the API reference! 
 
 	
-* [Repeater](https://www.wix.com/corvid/reference/$w/repeater)
-* [Image](https://www.wix.com/corvid/reference/$w/image)
-* [Text](https://www.wix.com/corvid/reference/$w/text/text)
+* [Repeater](https://www.wix.com/velo/reference/$w/repeater)
+* [Image](https://www.wix.com/velo/reference/$w/image)
+* [Text](https://www.wix.com/velo/reference/$w/text/text)
 
 ## Q&A SESSION THURSDAY NOVEMBER 19th 5pm PT
