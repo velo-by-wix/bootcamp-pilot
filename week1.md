@@ -1,6 +1,6 @@
 # Week 1 - Wix Data
 
-These weeks labs focus on working with the [Wix Data API](https://www.wix.com/corvid/reference/wix-data) and [Wix Datasets](https://www.wix.com/corvid/reference/wix-dataset). Wix Data is a powerful tool for creating dynamic experiences on Wix Websites. Let's look at ways to implement display, search, and filter on your sites.
+These weeks labs focus on working with the [Wix Data API](https://www.wix.com/velo/reference/wix-data) and [Wix Datasets](https://www.wix.com/velo/reference/wix-dataset). Wix Data is a powerful tool for creating dynamic experiences on Wix Websites. Let's look at ways to implement display, search, and filter on your sites.
 
 ## Challenge 1
 
